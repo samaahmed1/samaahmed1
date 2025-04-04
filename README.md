@@ -7,6 +7,7 @@
 ## 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sama-ahmed01)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:sama34777@gmail.com)
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -19,7 +20,20 @@
 - ### 🎨 Styling
 
   ![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)
+  
+- ### 🧠 Programming Language
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 
+- ### 🖼️ Frameworks
+
+  - #### CSS
+    ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=fff)
+    ![TailwindCSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)
+    
+  - #### JavaScript
+    ![React](https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB)
+   
 - ### 🛠️ Tools
 
   - #### 💻 IDE/Code Editors
@@ -35,6 +49,9 @@
 
     ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 
+  - ### ☁️ Cloud Systems
+    ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
+ 
   - #### 🎨 Design
 
     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
