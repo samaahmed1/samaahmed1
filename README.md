@@ -49,9 +49,6 @@
 
     ![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)
 
-  - ### ☁️ Cloud Systems
-    ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
- 
   - #### 🎨 Design
 
     ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&logo=Canva&logoColor=white)
@@ -61,6 +58,9 @@
 
     ![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)
     ![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)
+
+- ### ☁️ Cloud Systems
+    ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)
 
 ![Break Line](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
