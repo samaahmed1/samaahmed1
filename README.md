@@ -4,6 +4,14 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=samaahmed1&label=Profile%20views&color=0e75b6&style=flat)
 
+## 💫 About Me
+
+- I'm a Front-End Developer passionate about building responsive and user-friendly websites using HTML, CSS, JavaScript, and React.js.
+  
+- I love solving problems, writing clean code, and continuously learning new technologies.
+  
+- I'm comfortable using Git and GitHub for version control and enjoy working on real-world projects.
+
 ## 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/Linkedin-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sama-ahmed01)
